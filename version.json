@@ -1,7 +1,7 @@
-﻿{
+{
     "version":  "0.9.68",
     "required":  false,
-    "installer":  "https://github.com/J3fraaa-proG/SIPA-Updates/releases/download/v0.9.68/SIPA_PRO_0.9.68_Setup.exe",
+    "installer":  "https://github.com/J3fraaa-proG/SIPA-Updates/releases/download/v0.9.68/SIPA_PRO_0.9.68_setup.exe",
     "sha256":  "72a5c7a91e6f60ec49b6bd6022dbb1ad0b9ef656044d140fa6e5cc0f5419c3ac",
     "notes":  [
                   {
