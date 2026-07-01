@@ -1,0 +1,9 @@
+{
+  "version": "0.9.66",
+  "required": false,
+  "installer": "",
+  "sha256": "",
+  "notes": [
+    "Primera versión del sistema de actualizaciones."
+  ]
+}
